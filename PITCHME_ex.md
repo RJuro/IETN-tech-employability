@@ -6,12 +6,14 @@ theme: uncover
 paginate: true
 _paginate: false
 ---
-![bg](./assets/typing_bg.mp4)
 
-# <!--fit--> Technological knowledge, skills and competences
-to enhance the employability of PhDs outside academia
-IETN meeting 14/11 - 2019 
-###### Roman Jurowetzki, roman@business.aau.dk
+![bg](./assets/gradient.jpg)
+
+# <!--fit--> Marp CLI example
+
+Hosting Marp slide deck on the web
+
+https://github.com/yhatt/marp-cli-example
 
 <style scoped>a { color: #eee; }</style>
 

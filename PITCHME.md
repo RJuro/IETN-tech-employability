@@ -5,8 +5,20 @@ description: Technological knowledge, skills and competences for employability o
 theme: uncover
 paginate: true
 _paginate: false
+
+style: |
+  video.bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+  }
 ---
-![bg](./assets/vid_girl.mp4)
+
+<!--![bg](./assets/vid_girl.mp4)-->
 
 # <!--fit--> Technological knowledge, skills and competences
 for employability of PhDs 
@@ -104,11 +116,11 @@ Skills in demand
 - You will learn GitHub, some frontend, markdown
 
 ---
-![bg](./assets/kitchen.mp4)
-![](#fff)
+<!--![bg](./assets/kitchen.mp4)-->
+<!--![](#fff)-->
 # Stats./Econometrics 
 ### - A Discipline of Fear -
-- People that know least pretend they actually do rocket science
+- People that know least pretend they actually do rocket science :rocket:
 - You are not building a microwave, you are just trying to make food :yum:
 - Also: Most good resources are free - and YouTube is sometimes better than things you find in an "academic" publication (use your intuition)
 
@@ -135,6 +147,7 @@ Skills in demand
 - Subsetting/filtering
 - Aggregation
 - Merging
+- [Datacamp](https://www.datacamp.com/) is a great ressource here 
 
 ![bg right 70%](https://plsadaptive.s3.amazonaws.com/eco/images/partners/ts3UvGtToTrNIBUrMxlTTTx5l2u58oRvGos3z4Nb.png)
 
@@ -151,4 +164,8 @@ Skills in demand
 ---
 
 ![bg](./assets/blog.png)
+
+---
+
+### <!--fit--> :ok_hand:
 
